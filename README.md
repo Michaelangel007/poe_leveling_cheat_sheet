@@ -2,6 +2,8 @@
 
 [HTML Preview](https://htmlpreview.github.io/?https://github.com/Michaelangel007/poe_leveling_cheat_sheet/blob/master/index.html)
 
+![Leveling](pics/levels.png)![Gems](pics/gems.png)
+
 Version: 1
 Last updated: July 25, 2021
 
